@@ -11,3 +11,8 @@ div{
     width: 400px;
     height: 400px;
 }
+.login{
+    text-align: center;
+}
+input{
+    border-radius: 10px;
