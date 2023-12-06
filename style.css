@@ -7,3 +7,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     min-height: 100vh;
 }
+div{
+    width: 400px;
+    height: 400px;
+}
